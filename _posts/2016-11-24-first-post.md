@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Terminus Agency Launches First Post on GitHub Pages"
-date: 2014-04-30
+date: 2016-11-24
 ---
 
 This site is powered by [Jekyll](http://jekyllrb.com) and uses [Markdown][markdown-link] to author posts. Here is a [printable cheatsheet][printable=cheatsheet] for reference
